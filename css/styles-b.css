@@ -62,7 +62,11 @@ li{
   transition: opacity .6s;
 }
 
-footer header{
+header{
+  padding-bottom: 64px;
+  background-color: #fff;
+}
+footer{
   padding-top: 64px;
   padding-bottom: 64px;
   background-color: #fff;
@@ -70,7 +74,7 @@ footer header{
 
 img{
   object-fit: cover;
-  object-position: ;
+  object-position: none;
 }
 
 .img-2{
