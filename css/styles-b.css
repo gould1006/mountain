@@ -87,23 +87,16 @@ img{
   max-width: 90%;
 }
 
-/* .container{
-  margin: 0 auto;
-  padding: 5px;
+.carouselcontainer{
   width: 90%;
-  background-color: #fff;
-  column-count: 3;
-  column-gap: 0;
-} */
-
-/* @media (max-width: 800px) {
-  .container {
-    column-count: 2;
-  }
+  padding: 20px;
+  margin: auto;
 }
 
-@media (max-width: 480px) {
-  .container {
-    column-count: 1;
-  }
-} */
+.d-block{
+  height: 150px;
+}
+
+.carousel-indicators{
+top: 70px;
+}
